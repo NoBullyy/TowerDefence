@@ -1,6 +1,12 @@
-# Tower defence Evolution
+# Tower Defence Evolution
 
-Ideea ar fi sa fac un tower defence unde valurile de inamici sunt initial predefinite, iar apoi incep random sa evolueze monstrii individuali (intre valuri). Spre exemplu initial apar 5 [inamic0]. runda urmatoare la fel, apoi 2 dintre cei 5 evolueaza, o evolutie se multiplica in 3 (deci 7 inamici0 in loc de 5) sau upgradeaza la inamic1. FIecare fel de inamic are o sansa sa droppeze iteme/resurse in functie de evolutie, care la randul lor sunt folosite pentru a evolua propriile turnuri. (in principiu o sa fac cateva turnuri cu 10-20 inamici si evolutia pur si simplu inseamna ca se inlocuieste inamicul cu altul deja facut)
+Ideea ar fi să fac un tower defence unde valurile de inamici sunt inițial predefinite, iar apoi, între valuri, încep să evolueze monștrii individuali în mod random.
+
+Spre exemplu: inițial apar 5 [inamic0]. Runda următoare la fel, apoi 2 dintre cei 5 evoluează — o evoluție se poate multiplica în 3 (deci ajung să fie 7 inamic0 în loc de 5) sau poate face upgrade la inamic1.
+
+Fiecare tip de inamic are o șansă să droppeze iteme/resurse în funcție de evoluție, iar acestea sunt folosite pentru a evolua propriile turnuri. (În principiu o să fac câteva turnuri și 10-20 de inamici, iar "evoluția" înseamnă pur și simplu că se înlocuiește inamicul cu altul deja creat.)
+
+
 
 O sa incerc sa fie free placement dar daca e prea greu o sa las doar placementuri predefinite la towere
 
